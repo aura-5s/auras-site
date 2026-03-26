@@ -1,8 +1,10 @@
-baseURL = "https://AngelSalazar-11.github.io/auras-site/"
+baseURL = "https://aura-5s.github.io/auras-site/"
 languageCode = "es-mx"
 title = "Aura S."
 theme = "aura"
-paginate = 20
+
+[pagination]
+pagerSize = 20
 
 [taxonomies]
   type = "type"
