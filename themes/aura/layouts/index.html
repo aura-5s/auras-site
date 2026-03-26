@@ -1,0 +1,67 @@
+{{ define "main" }}
+<div class="container">
+
+  {{/* ── LATEST ── */}}
+  {{ $latest := first 1 (where (where .Site.RegularPages "Section" "writing") "Params.collection" "!=" nil) }}
+  {{ with index $latest 0 }}
+  <section class="latest-section" aria-label="Último texto">
+    <p class="section-label">Latest</p>
+    <a href="{{ .RelPermalink }}" class="latest-card" style="display:block;">
+      <div class="latest-meta">
+        <span>{{ .Date.Format "2006-01-02" }}</span>
+        <span>{{ .Params.type | default "prosa" }}</span>
+      </div>
+      <div class="latest-title">{{ .Title }}</div>
+      <div class="latest-excerpt">{{ .Plain | truncate 280 "" }}</div>
+      <span class="latest-read-more">Leer →</span>
+    </a>
+  </section>
+  {{ end }}
+
+  {{/* ── WRITING ── */}}
+  <section class="writing-section" aria-label="Antologías">
+    <p class="section-label">Writing</p>
+
+    {{/*
+      Las colecciones se ordenan manualmente mediante el campo `weight`
+      en el archivo _index.md de cada colección (content/writing/<col>/_index.md).
+      A menor weight, aparece primero.
+    */}}
+    {{ $collections := .Site.Taxonomies.collection }}
+    {{ $orderedKeys := slice }}
+
+    {{/* Recopilar páginas de taxonomía para ordenar por weight */}}
+    {{ $taxPages := where .Site.Pages "Kind" "term" }}
+    {{ $collectionPages := where $taxPages "Type" "collection" }}
+    {{ $sorted := sort $collectionPages "Params.weight" "asc" }}
+
+    {{ range $sorted }}
+      {{ $colSlug := .Title }}
+      {{ $terms := index $collections (urlize $colSlug) }}
+      {{ $count := 0 }}
+      {{ with $terms }}{{ $count = len .Pages }}{{ end }}
+
+      <div class="collection-list" style="border-top: none;">
+        <a href="{{ .RelPermalink }}" class="collection-item" style="display:flex;">
+          <span class="collection-name">{{ .Title }}</span>
+          <span class="collection-count">{{ $count }} {{ if eq $count 1 }}texto{{ else }}textos{{ end }}</span>
+        </a>
+      </div>
+    {{ end }}
+
+    {{/* Colecciones sin página de taxonomía explícita (fallback) */}}
+    {{ if not $sorted }}
+    <div class="collection-list">
+      {{ range $key, $val := $collections }}
+      <a href="{{ "/collection/" | relURL }}{{ $key }}" class="collection-item" style="display:flex;">
+        <span class="collection-name">{{ $key | humanize | title }}</span>
+        <span class="collection-count">{{ len $val.Pages }} {{ if eq (len $val.Pages) 1 }}texto{{ else }}textos{{ end }}</span>
+      </a>
+      {{ end }}
+    </div>
+    {{ end }}
+
+  </section>
+
+</div>
+{{ end }}

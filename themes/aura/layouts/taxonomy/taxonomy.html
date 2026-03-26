@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="container">
+  <header class="page-header">
+    <h1 class="page-title">Antologías</h1>
+  </header>
+  <div class="collection-list">
+    {{ range .Pages }}
+    <a href="{{ .RelPermalink }}" class="collection-item" style="display:flex;">
+      <span class="collection-name">{{ .Title }}</span>
+      <span class="collection-count">{{ len .Pages }} textos</span>
+    </a>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

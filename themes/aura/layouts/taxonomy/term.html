@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="container">
+
+  <header class="anthology-header">
+    <h1 class="anthology-title">{{ .Title }}</h1>
+    <p class="anthology-subtitle">
+      {{ len .Pages }} {{ if eq (len .Pages) 1 }}texto{{ else }}textos{{ end }}
+    </p>
+  </header>
+
+  <div class="writing-list">
+    {{ range sort .Pages "Date" "desc" }}
+    <a href="{{ .RelPermalink }}" class="writing-item" style="display:flex;">
+      <div class="writing-meta">
+        <span>{{ .Date.Format "2006-01-02" }}</span>
+        <span>{{ .Params.type | default "prosa" }}</span>
+      </div>
+      <span class="writing-title">{{ .Title }}</span>
+    </a>
+    {{ end }}
+  </div>
+
+</div>
+{{ end }}

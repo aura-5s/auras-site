@@ -1,0 +1,452 @@
+/* ============================================
+   AURA S. — TEMA PRINCIPAL
+   Paleta: casi-negro / gris / blanco
+   Tipografía: Lora (serif, textos) + DM Sans (sans, UI)
+   ============================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=DM+Sans:wght@300;400;500&display=swap');
+
+/* --- Variables: modo oscuro (por defecto) --- */
+:root {
+  --bg:        #111110;
+  --bg-subtle: #181817;
+  --muted:     #4a4a47;
+  --dim:       #888884;
+  --text:      #e8e6e0;
+  --accent:    #e8e6e0;
+
+  --font-ui:   'DM Sans', sans-serif;
+  --font-body: 'Lora', serif;
+
+  --nav-h:     3.25rem;
+  --max-w:     640px;
+  --max-w-wide: 900px;
+}
+
+/* --- Modo claro --- */
+[data-theme="light"] {
+  --bg:        #f5f4f0;
+  --bg-subtle: #eceae4;
+  --muted:     #b8b5ad;
+  --dim:       #888884;
+  --text:      #1a1a18;
+  --accent:    #1a1a18;
+}
+
+/* --- Reset & base --- */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html {
+  font-size: 17px;
+  -webkit-font-smoothing: antialiased;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  line-height: 1.75;
+  min-height: 100vh;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* ============================================
+   NAVEGACIÓN
+   ============================================ */
+
+nav.site-nav {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: var(--nav-h);
+  background-color: var(--bg);
+  border-bottom: 1px solid var(--muted);
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2rem;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  font-weight: 400;
+}
+
+/* Breadcrumb izquierda */
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  letter-spacing: 0.01em;
+}
+
+.nav-home {
+  color: var(--text);
+  font-weight: 500;
+  transition: opacity 0.15s;
+}
+.nav-home:hover { opacity: 0.65; }
+
+.nav-breadcrumb {
+  color: var(--dim);
+  font-weight: 300;
+}
+
+/* Links derecha */
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 1.75rem;
+}
+
+.nav-link {
+  color: var(--dim);
+  font-weight: 300;
+  letter-spacing: 0.02em;
+  transition: color 0.15s;
+}
+.nav-link:hover,
+.nav-link.active { color: var(--text); }
+
+/* Toggle tema */
+.theme-toggle {
+  background: none;
+  border: 1px solid var(--muted);
+  border-radius: 999px;
+  width: 2.4rem;
+  height: 1.3rem;
+  cursor: pointer;
+  position: relative;
+  transition: border-color 0.2s;
+  flex-shrink: 0;
+}
+.theme-toggle:hover { border-color: var(--dim); }
+
+.theme-toggle::after {
+  content: '';
+  position: absolute;
+  top: 2px; left: 2px;
+  width: calc(1.3rem - 6px);
+  height: calc(1.3rem - 6px);
+  border-radius: 50%;
+  background-color: var(--dim);
+  transition: transform 0.2s ease, background-color 0.2s;
+}
+[data-theme="light"] .theme-toggle::after {
+  transform: translateX(1.1rem);
+  background-color: var(--text);
+}
+
+/* ============================================
+   LAYOUT BASE
+   ============================================ */
+
+main {
+  padding-top: calc(var(--nav-h) + 3.5rem);
+  padding-bottom: 5rem;
+}
+
+.container {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* ============================================
+   HOMEPAGE
+   ============================================ */
+
+/* Sección Latest */
+.section-label {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--dim);
+  margin-bottom: 1.25rem;
+}
+
+.latest-card {
+  border-top: 1px solid var(--muted);
+  padding-top: 1.5rem;
+  margin-bottom: 4rem;
+}
+
+.latest-meta {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  color: var(--dim);
+  font-weight: 300;
+  margin-bottom: 0.45rem;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.latest-title {
+  font-family: var(--font-body);
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: var(--text);
+  margin-bottom: 0.75rem;
+  line-height: 1.4;
+  transition: opacity 0.15s;
+}
+.latest-card:hover .latest-title { opacity: 0.7; }
+
+.latest-excerpt {
+  font-size: 0.95rem;
+  color: var(--dim);
+  line-height: 1.7;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.latest-read-more {
+  display: inline-block;
+  margin-top: 0.85rem;
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  color: var(--dim);
+  font-weight: 300;
+  letter-spacing: 0.04em;
+  transition: color 0.15s;
+}
+.latest-card:hover .latest-read-more { color: var(--text); }
+
+/* Sección Writing */
+.writing-section { margin-top: 0.5rem; }
+
+.collection-list {
+  border-top: 1px solid var(--muted);
+}
+
+.collection-item {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--bg-subtle);
+  font-family: var(--font-ui);
+  transition: border-color 0.15s;
+}
+.collection-item:hover { border-bottom-color: var(--muted); }
+
+.collection-name {
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: var(--text);
+  transition: opacity 0.15s;
+}
+.collection-item:hover .collection-name { opacity: 0.7; }
+
+.collection-count {
+  font-size: 0.75rem;
+  color: var(--muted);
+  font-weight: 300;
+}
+
+/* ============================================
+   PÁGINA DE ANTOLOGÍA
+   ============================================ */
+
+.anthology-header {
+  margin-bottom: 2.5rem;
+}
+
+.anthology-title {
+  font-family: var(--font-body);
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: var(--text);
+  margin-bottom: 0.25rem;
+}
+
+.anthology-subtitle {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  color: var(--dim);
+  font-weight: 300;
+}
+
+.writing-list {
+  border-top: 1px solid var(--muted);
+}
+
+.writing-item {
+  display: flex;
+  align-items: baseline;
+  gap: 1rem;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--bg-subtle);
+  transition: border-color 0.15s;
+}
+.writing-item:hover { border-bottom-color: var(--muted); }
+
+.writing-meta {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  color: var(--dim);
+  font-weight: 300;
+  white-space: nowrap;
+  flex-shrink: 0;
+  display: flex;
+  gap: 0.6rem;
+}
+
+.writing-title {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  color: var(--text);
+  font-style: italic;
+  transition: opacity 0.15s;
+  line-height: 1.4;
+}
+.writing-item:hover .writing-title { opacity: 0.65; }
+
+/* ============================================
+   PÁGINA DE ARTÍCULO/TEXTO
+   ============================================ */
+
+.article-header {
+  margin-bottom: 2.5rem;
+}
+
+.article-title {
+  font-family: var(--font-body);
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.35;
+  color: var(--text);
+  margin-bottom: 0.6rem;
+}
+
+.article-meta {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  color: var(--dim);
+  font-weight: 300;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.article-meta .sep {
+  color: var(--muted);
+  font-size: 0.6rem;
+}
+
+/* Contenido del artículo */
+.article-body {
+  font-size: 1rem;
+  line-height: 1.85;
+  color: var(--text);
+}
+
+.article-body p {
+  margin-bottom: 1.4em;
+}
+
+/* Verso: preservar saltos de línea */
+.article-body.verse {
+  font-style: italic;
+}
+.article-body.verse p {
+  white-space: pre-line;
+  margin-bottom: 1.8em;
+}
+
+.article-body h2, .article-body h3 {
+  font-family: var(--font-ui);
+  font-weight: 500;
+  margin: 2em 0 0.75em;
+  color: var(--text);
+}
+.article-body h2 { font-size: 1.05rem; }
+.article-body h3 { font-size: 0.95rem; color: var(--dim); }
+
+.article-body em { font-style: italic; }
+.article-body strong { font-weight: 500; }
+
+.article-body blockquote {
+  border-left: 2px solid var(--muted);
+  padding-left: 1.25rem;
+  color: var(--dim);
+  font-style: italic;
+  margin: 1.5em 0;
+}
+
+/* ============================================
+   PÁGINAS SIMPLES (About, Now)
+   ============================================ */
+
+.page-header {
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid var(--muted);
+  padding-bottom: 1.25rem;
+}
+
+.page-title {
+  font-family: var(--font-body);
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: var(--text);
+}
+
+.page-body {
+  font-size: 1rem;
+  line-height: 1.85;
+  color: var(--text);
+}
+
+.page-body p { margin-bottom: 1.4em; }
+.page-body a {
+  border-bottom: 1px solid var(--muted);
+  transition: border-color 0.15s;
+}
+.page-body a:hover { border-color: var(--text); }
+
+/* ============================================
+   FOOTER
+   ============================================ */
+
+footer.site-footer {
+  padding: 2.5rem 1.5rem;
+  text-align: center;
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  color: var(--muted);
+  font-weight: 300;
+  letter-spacing: 0.04em;
+  border-top: 1px solid var(--bg-subtle);
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+
+@media (max-width: 600px) {
+  nav.site-nav {
+    padding: 0 1rem;
+  }
+
+  .nav-right {
+    gap: 1rem;
+  }
+
+  .writing-item {
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+
+  .writing-meta {
+    font-size: 0.72rem;
+  }
+}
