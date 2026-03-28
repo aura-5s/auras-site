@@ -292,7 +292,7 @@ main {
 
 .anthology-title {
   font-family: var(--font-body);
-  font-size: 1.8rem;
+  font-size: 1.9rem;
   font-weight: 500;
   line-height: 1.1;
   color: var(--text);
@@ -353,7 +353,7 @@ main {
 
 .writing-title {
   font-family: var(--font-body);
-  font-size: 1.05rem;
+  font-size: 1.15rem;
   color: var(--text);
   /* font-style: italic; */
   transition: color 0.15s;
@@ -373,7 +373,7 @@ main {
 
 .article-title {
   font-family: var(--font-body);
-  font-size: 1.8rem;
+  font-size: 1.9rem;
   font-weight: 500;
   line-height: 1.1;
   color: var(--text);
