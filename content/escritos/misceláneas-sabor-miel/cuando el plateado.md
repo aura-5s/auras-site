@@ -1,8 +1,8 @@
 ---
-title: "Cuando el plateado desaparezca"
+title: Cuando el plateado desaparezca
 date: 2024-11-25
-type: "prosa"
-collection: "Misceláneas sabor miel"
+type: verso
+collection: Misceláneas sabor miel
 ---
 
 Cuando el plateado desaparezca,
