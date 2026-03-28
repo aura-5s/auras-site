@@ -529,7 +529,8 @@ footer.site-footer {
 
   /* [2] en móvil: metadatos y título en dos renglones */
   .writing-item {
-    flex-wrap: wrap;
+    /* flex-direction: column-reverse; */
+    flex-wrap: wrap-reverse;
     gap: 0.1rem;
     column-gap: 1.2rem;
   }
