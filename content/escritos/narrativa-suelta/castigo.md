@@ -1,0 +1,38 @@
+---
+title: "Castigo"
+date: 2024-12-01
+type: "prosa"
+collection: "Narrativa suelta"
+---
+
+Los recuerdos me revuelven el estómago con la llegada de cada diciembre. Escuchar tanta gente riendo, oler la ingente cantidad de comida y ver las luces centelleantes solo me nausea más. Siempre que llega la cena navideña tengo que poner una excusa tonta: _Tengo indigestión__._ _Me llamaron del trabajo__._ _Olvidé unos pendientes_. La cosa empeora cada año y realmente me siento mal por mi familia, pero no creo ser capaz de asistir a la cena de esta víspera.
+
+Todo sucedió cuando era más joven. Si la memoria no me falla, en ese entonces aún creía en los cuentos de mi madre. Ella decía que Santa venía a hurtadillas cada Navidad a dejarle regalos a los niños que se portaban bien y obedecían a sus padres. Como siempre, con sus fieles ayudantes, los renos voladores y los soldaditos de jengibre. También me contaba mi madre que, cuando Santa llegaba a una casa con la puerta cerrada, sus soldaditos entraban por debajo y la abrían desde adentro.
+
+Ese año, un pequeño robot de juguete estaba de moda entre mis amigos. Ya la mayoría lo tenía. Recuerdo que sus manos eran como dos pequeñas pinzas, perfectas para sujetar las armas de plástico que tenía y hacer una guerra.
+
+En ese momento, aquel niño que era ignoraba que la noche donde Santa me traería mis ansiados regalos se convertiría en una que me acompañaría por toda mi vida. Había sacado diez en todas mis asignaturas escolares y obedecí a mis padres en todo lo que me pidieron a lo largo del año. Aunque no tenía motivos para dudar, me preocupaba que no me visitara Santa. Y no sé si fue la sed que sentí esa noche o la terrible ansiedad que me impedía dormir... pero aquel veinticinco de diciembre cometí un error. Aún de madrugada salí de mi habitación. Tambaleando del sueño y con los ojos entreabiertos, me dirigí a la cocina. En mi mente tomaría un poco de agua y regresaría a dormir.
+
+Cuando pasé por el comedor vi la bandeja que le había dejado a Santa: tres galletas de jengibre y un vaso de leche. Mi sed era real y mi sueño persistía, no obstante, algo más captó mi atención a tal punto de olvidar completamente mis malestares. Al inició me figuré que era mi imaginación, así que me quedé ahí, observando un poquito más solo para terminar confirmando mis sospechas: una galleta de jengibre se movía. ¡Tenía vida!
+
+Era imposible, o eso pensé. Cuando aún era un entusiasta navideño, había oído de al menos ocho anécdotas sobre galletas de jengibre ayudando a Santa a repartir los regalos de los niños alrededor del mundo, pero al ver con mis propios ojos esa personita moverse sobre un plato de cerámica sentí que la fuerza se me escapaba por las piernas.
+
+Realmente vi una galleta moviéndose. Ahora que lo pienso, era bastante tierna la manera en que se movía. Parecía que estuviera abriendo sus ojos a este bello mundo... como yo cuando el Sol me despertaba. Un escalofrío me recorrió el cuerpo al pensar que, después de todo, no era más que simple alimento. Pensé que, evidentemente, Santa no se la comería. _¿Pero qué pasará mañana, cuando mis padres la vean?_, pensé después con terror. Pude haberla sacado de la casa, pero seguramente hubiera sido devorada por los insectos que merodeaban el jardín. Pude haberla escondido en mi cuarto, ¿pero hasta cuándo hubiera estado cautiva? Hoy día me sigo arrepintiendo de la decisión que tomé. El pasado no se puede cambiar.
+
+Me acerqué a ella por detrás, agachado y sigiloso, entonces, antes de que pudiera girar a verme, la atrapé con mi puño en una moción veloz. Cubierta con mis manos solo pude sentir su fútil resistencia. Me asusté tanto que ni siquiera tuve tiempo para pensar bien qué pasaba y cuando recuperé la cordura la galleta entera se encontraba dentro de mi boca. Me la había comido.
+
+Recuerdo haber pensado: _Si descubriera esa miniatura lo que les hacen las personas a las galletas cada navidad..._ Pensé que sería mejor para ella no sufrir el cruel destino de este mundo, después de todo nunca estuvo hecha para vivir. Sí, lo hice por su bien. No había alternativa. Esa galleta nunca debió nacer. Yo nunca debí ir a la cocina, nunca debí despertarme; es más, de haber sabido que mi vida sería tan dolorosa...
+
+Cada mordisco que daba era una tortura que incrementaba gradualmente, al igual que la iluminación que me brindaba la Luna llena. Cuando mi vista se hubo acostumbrado a la oscuridad, lo primero que vi fueron mis manos: solo quedaron migajas. Y cuando finalmente la pasé por mi garganta, sentí el mayor asco que habré sentido en toda mi vida. Corrí al baño de puntillas (para no despertar a mis padres) y la vomité. Ahí, descuartizada en el lavabo, vi a la galleta... no, ya no era una galleta para ese entonces... vi los restos de mi víctima retorciéndose del dolor como larvas que se esparcen vilmente en busca de alimento. Mientras mis manos aún me respondían, abrí el grifo por completo. Me aseguré de que no quedara rastro alguno de lo que alguna vez fue una inocente galleta.
+
+El lavabo se vaciaba y yo recordaba los cuentos que me contaba mi madre. Cuentos de las galletas de jengibre que ayudaban a Santa a repartir regalos. _Quizás sí soy un asesino_, pensé. Tuve miedo, mi mente se nubló temporalmente, luego fue mi vista. Me mareé tanto que me sorprende haber mantenido la consciencia. Había cometido uno de esos errores que no se pueden corregir por más que uno lo intente.
+
+Levanté mi mirada rápidamente y me encontré con el espejo, pero no era a mí a quien reflejaba. Era bastante noche así que no lo recuerdo con claridad, pero estoy seguro de que había una horrible mancha negra en ese espejo. Evidentemente volví a vomitar. Esa noche intenté de todo, pero la mancha nunca se fue por más jabón que aplicara al espejo o a mi cara, como si fuera una maldición vitalicia.
+
+Me rendí. Era de madrugada, tenía sed, tenía hambre y tenía cansancio. Me fui de ahí y me acosté, mas no cerré los ojos. Únicamente me quedé observando el techo pensando en lo horrendo que sería quedarme dormido tras haber cometido un homicidio tan cruel, aunque tampoco es como si me hubiera convertido en un asesino despiadado. Que quede en claro que no lo soy.
+
+Cuando mi habitación se había iluminado completamente por el sol, salí de nuevo. No hace falta decirlo, pero estaba convencido de que Santa no me traería aquel robot. A pesar de todo, cuando miré debajo del árbol ahí estaba mi regalo. Nunca lo olvidaré, era una caja cuadrada, medía unos treinta centímetros, era color rojo con moño dorado y estaba acompañada de una pequeña etiqueta: _Para el mejor niño del mundo_. Luego, mis padres me dieron un abrazo y la vida continuó sin inconvenientes.
+
+La vida ha seguido su rumbo y ya tengo dieciséis años con este secreto alimentándose de mis entrañas cada Navidad. La verdad creo que esa galleta nunca se fue completamente de mi estómago. Siento que cada diciembre despierta e intenta salir de ahí, rasgando mis intestinos como venganza. ¿Cómo lo sé?, pues porque la sensación es la misma que la de aquella noche, cuando la creatura trataba desesperadamente de escapar de mi mano.
+
+Pero he aprendido a vivir con este mal. Me deshice de todos mis espejos y dejé de consumir alimentos que me recuerden a aquella pobre galleta, hacerlo solo empeoraría la situación. Incluso al confesar esto mi estómago comienza a hacer unos ruidos anormales. Retorcijones que silencio con un poco más de agua.

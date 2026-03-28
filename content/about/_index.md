@@ -1,8 +1,6 @@
 ---
 title: "About Me"
-layout: "single"
+layout: "list"
 ---
 
-<!-- Reemplaza este contenido con tu archivo .md de Obsidian -->
-
-Texto de presentación.
+Jejeje.

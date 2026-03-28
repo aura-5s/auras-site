@@ -21,7 +21,7 @@ hugo version
 ### 2. Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU-USUARIO/auras-site.git
+git clone https://github.com/aura-5s/auras-site.git
 cd auras-site
 ```
 
@@ -107,15 +107,10 @@ weight: 3          # controla el orden en la homepage (menor = primero)
 
 Los archivos de Obsidian son Markdown estándar, por lo que la migración es directa:
 
-1. Copia el archivo `.md` a `content/writing/`.
+1. Copia el archivo `.md` a `content/writing/`, `about/_index.md` y `now/_index.md`.
 2. Agrega o ajusta el front matter (ver formato arriba).
 3. Elimina cualquier sintaxis específica de Obsidian que no uses
    (el sitio usa Markdown puro).
-
-Para `about/_index.md` y `now/_index.md`, simplemente reemplaza el contenido
-del archivo con el de tu nota de Obsidian, conservando el front matter.
-
----
 
 ## Configurar GitHub Pages (primera vez)
 

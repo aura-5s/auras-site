@@ -1,0 +1,14 @@
+---
+title: "Siempre en segundo lugar"
+date: 2025-08-25
+type: "prosa"
+collection: "Narrativa suelta"
+---
+
+¿Cómo describo a la mujer que se sacaba los mocos? No puedo negarlo, fue desagradable, y todo lo desagradable resulta desagradable de describir. Amarillos, verdosos, elásticos, pero maleables con sus dedos experimentados. Sus movimientos recordaban a las carreras de go-karts, a la pista siendo recorrida suavemente con neumáticos tibios[^1]. Su técnica la respaldaba su memoria muscular, el cuerpo no miente. Se metió los dedos en la nariz sin pensarlo. Fue la fluidez de sus movimientos lo que me permitió esta deducción. Primero el índice, luego un cambio al meñique y otra vez el índice para terminar con el anular.
+
+¿Ha escuchado usted de lo que sucede con corredores de pista profesionales cuando escuchan un estallido preciso como el de una bala de salva? Antes de pensarlo (porque pensar consume tiempo), sus torsos se giran y sus brazos se elevan dispuestos a correr la carrera que llevan años ensayando.
+
+Entenderá usted que el esfuerzo nunca traiciona, y esto se mantiene cierto en actividades que muchos calificarían de triviales, como sacarse los mocos. Piénselo desde otra perspectiva: nadie puede sacarse los mocos o rascarse la nariz con los dedos de su mano secundaria tan bien como con la principal. Esto es indiscutible cuando se obvia la ambidextría y da paso a una disertación más amplia que, por no ser el objeto de la materia, no se analizará en el escrito presente. Pero aclaremos otro punto: no todas las personas nacen en el mismo punto de partida, se estima que hasta un 80% de la población sufre algún grado de desviación de un tabique nasal. Maniobrar los dedos en una fosa estrecha no es cosa de principiantes, y suele pasar desapercibido, pero es un factor a tomar en cuenta cuando se persigue la excelencia. Excelencia, se trata siempre de la excelencia. Le hablo del arte de sacarse los mocos. No es ningún secreto y merece remarcarse claro y conciso: algunas personas se sacan los mocos mejor que otras. ¿Ha pensado en ello?, ¿ha reservado interés en conocer cómo se saca su vecino sus mocos?, ¿se ha preguntado si su jefe se saca mejor que usted sus mocos?, ¿ha examinado la nariz de su pareja en busca de una posible desviación? Porque yo sí pienso en esto, yo sí me lo tomo con la seriedad debida, y ver a aquella mujer sacarse los mocos mejor que yo fue desagradable. No lo puedo negar.
+
+[^1]: Es complejo explicarlo y si entro en detalles corro el riesgo de causar más confusión que entendimiento, pero es verdad que existe una similitud. Usted mismo puede corroborarlo si emplea el instinto suficiente.

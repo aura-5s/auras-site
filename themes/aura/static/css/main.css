@@ -1,10 +1,10 @@
 /* ============================================
    AURA S. — TEMA PRINCIPAL
-   Paleta: casi-negro / gris / blanco
-   Tipografía: Lora (serif, textos) + DM Sans (sans, UI)
+   Paleta: casi-negro / gris / blanco / rosa
+   Tipografía: Crimson Text (serif, textos) + Inter (sans, UI)
    ============================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=DM+Sans:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap&https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700');
 
 /* --- Variables: modo oscuro (por defecto) --- */
 :root {
@@ -14,12 +14,13 @@
   --dim:       #888884;
   --text:      #e8e6e0;
   --accent:    #e8e6e0;
+  --hover:     #d174bb;   /* tono rosa — unifica todos los hovers */
 
-  --font-ui:   'DM Sans', sans-serif;
-  --font-body: 'Lora', serif;
+  --font-ui:   'Inter', sans-serif;
+  --font-body: 'Crimson Text', serif;
 
   --nav-h:     3.25rem;
-  --max-w:     640px;
+  --max-w:     760px;
   --max-w-wide: 900px;
 }
 
@@ -31,10 +32,15 @@
   --dim:       #888884;
   --text:      #1a1a18;
   --accent:    #1a1a18;
+  /* --hover permanece igual en ambos temas */
 }
 
 /* --- Reset & base --- */
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
 html {
   font-size: 17px;
@@ -42,12 +48,17 @@ html {
   scroll-behavior: smooth;
 }
 
+/* [1] FOOTER PEGADO AL FONDO
+   body como columna flex de altura mínima 100vh;
+   main crece para empujar el footer abajo */
 body {
   background-color: var(--bg);
   color: var(--text);
   font-family: var(--font-body);
   line-height: 1.75;
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
   transition: background-color 0.25s ease, color 0.25s ease;
 }
 
@@ -61,19 +72,23 @@ a {
    ============================================ */
 
 nav.site-nav {
-  position: fixed;
-  top: 0; left: 0; right: 0;
+  max-width: var(--max-w);
+  margin: 0 auto;
   height: var(--nav-h);
   background-color: var(--bg);
-  border-bottom: 1px solid var(--muted);
   z-index: 100;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 2rem;
+  padding: 0 1.5rem;
   font-family: var(--font-ui);
-  font-size: 0.85rem;
+  font-size: 0.88rem;
   font-weight: 400;
+  /* nav ocupa todo el ancho de la barra superior */
+  width: 100%;
+  max-width: var(--max-w);
+  /* centrar la barra si la ventana es más ancha */
+  align-self: center;
 }
 
 /* Breadcrumb izquierda */
@@ -86,14 +101,15 @@ nav.site-nav {
 
 .nav-home {
   color: var(--text);
-  font-weight: 500;
-  transition: opacity 0.15s;
+  font-weight: 600;
+  transition: color 0.15s;
 }
-.nav-home:hover { opacity: 0.65; }
+/* [4] hover unificado con --hover */
+.nav-home:hover { color: var(--hover); }
 
 .nav-breadcrumb {
   color: var(--dim);
-  font-weight: 300;
+  font-weight: 500;
 }
 
 /* Links derecha */
@@ -105,11 +121,12 @@ nav.site-nav {
 
 .nav-link {
   color: var(--dim);
-  font-weight: 300;
+  font-weight: 500;
   letter-spacing: 0.02em;
   transition: color 0.15s;
 }
-.nav-link:hover,
+/* [4] hover unificado */
+.nav-link:hover { color: var(--hover); }
 .nav-link.active { color: var(--text); }
 
 /* Toggle tema */
@@ -124,7 +141,7 @@ nav.site-nav {
   transition: border-color 0.2s;
   flex-shrink: 0;
 }
-.theme-toggle:hover { border-color: var(--dim); }
+.theme-toggle:hover { border-color: var(--hover); }
 
 .theme-toggle::after {
   content: '';
@@ -145,9 +162,11 @@ nav.site-nav {
    LAYOUT BASE
    ============================================ */
 
+/* [1] main crece para empujar el footer */
 main {
-  padding-top: calc(var(--nav-h) + 3.5rem);
-  padding-bottom: 5rem;
+  flex: 1;
+  padding-top: calc(var(--nav-h) - 1.5rem);
+  padding-bottom: 1.5rem;
 }
 
 .container {
@@ -160,11 +179,14 @@ main {
    HOMEPAGE
    ============================================ */
 
-/* Sección Latest */
+.latest-section {
+  margin-bottom: 2rem;
+}
+
 .section-label {
   font-family: var(--font-ui);
-  font-size: 0.72rem;
-  font-weight: 500;
+  font-size: 0.7rem;
+  font-weight: 600;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--dim);
@@ -172,9 +194,8 @@ main {
 }
 
 .latest-card {
-  border-top: 1px solid var(--muted);
-  padding-top: 1.5rem;
-  margin-bottom: 4rem;
+  margin-left: 0.5rem;
+  display: block;
 }
 
 .latest-meta {
@@ -190,28 +211,29 @@ main {
 
 .latest-title {
   font-family: var(--font-body);
-  font-size: 1.2rem;
+  font-size: 1.45rem;
   font-weight: 500;
   color: var(--text);
-  margin-bottom: 0.75rem;
-  line-height: 1.4;
-  transition: opacity 0.15s;
+  margin-bottom: 0.1rem;
+  line-height: 1.1;
+  transition: color 0.15s;
 }
-.latest-card:hover .latest-title { opacity: 0.7; }
+/* [4] hover unificado */
+.latest-card:hover .latest-title { color: var(--hover); }
 
 .latest-excerpt {
-  font-size: 0.95rem;
+  font-size: 1.05rem;
   color: var(--dim);
-  line-height: 1.7;
+  line-height: 1.4;
   display: -webkit-box;
-  -webkit-line-clamp: 3;
+  -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
 
 .latest-read-more {
   display: inline-block;
-  margin-top: 0.85rem;
+  margin-top: 0.5rem;
   font-family: var(--font-ui);
   font-size: 0.78rem;
   color: var(--dim);
@@ -219,54 +241,64 @@ main {
   letter-spacing: 0.04em;
   transition: color 0.15s;
 }
-.latest-card:hover .latest-read-more { color: var(--text); }
+/* [4] hover unificado */
+.latest-card:hover .latest-read-more { color: var(--hover); }
 
 /* Sección Writing */
-.writing-section { margin-top: 0.5rem; }
-
 .collection-list {
   border-top: 1px solid var(--muted);
+  margin-left: 0.5rem;
 }
 
 .collection-item {
   display: flex;
   align-items: baseline;
   justify-content: space-between;
-  padding: 1rem 0;
+  padding: 1.25rem 0;
   border-bottom: 1px solid var(--bg-subtle);
   font-family: var(--font-ui);
   transition: border-color 0.15s;
+  line-height: 1;
 }
 .collection-item:hover { border-bottom-color: var(--muted); }
 
+/* [4] hover unificado */
+.collection-item:hover .collection-name { color: var(--hover); }
+
 .collection-name {
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   font-weight: 400;
   color: var(--text);
-  transition: opacity 0.15s;
+  transition: color 0.15s;
+  padding-right: 1rem;
 }
-.collection-item:hover .collection-name { opacity: 0.7; }
 
-.collection-count {
-  font-size: 0.75rem;
+.collection-status, .collection-count {
+  font-size: 0.77rem;
   color: var(--muted);
   font-weight: 300;
 }
+
+.collection-status {
+  font-style: italic;
+}
+
 
 /* ============================================
    PÁGINA DE ANTOLOGÍA
    ============================================ */
 
 .anthology-header {
-  margin-bottom: 2.5rem;
+  margin-bottom: 2rem;
 }
 
 .anthology-title {
   font-family: var(--font-body);
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   font-weight: 500;
+  line-height: 1.1;
   color: var(--text);
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.1rem;
 }
 
 .anthology-subtitle {
@@ -276,56 +308,79 @@ main {
   font-weight: 300;
 }
 
+/* [2] LISTA DE ENTRADAS — ul/li con flexbox y columnas alineadas */
 .writing-list {
-  border-top: 1px solid var(--muted);
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
+/* .writing-list li {
+  border-bottom: 1px solid var(--bg-subtle);
+  transition: border-color 0.15s;
+} */
+/* .writing-list li:first-child {
+  border-top: 1px solid var(--muted);
+} */
+.writing-list li:hover {
+  border-bottom-color: var(--muted);
+}
+
+/* [2] cada entrada: flex con columnas de ancho fijo para fecha y tipo,
+   el título ocupa el espacio restante sin verse afectado por los predecesores */
 .writing-item {
   display: flex;
   align-items: baseline;
-  gap: 1rem;
-  padding: 0.85rem 0;
-  border-bottom: 1px solid var(--bg-subtle);
-  transition: border-color 0.15s;
+  gap: 0;
+  padding: 0.3rem 0;
+  width: 100%;
 }
-.writing-item:hover { border-bottom-color: var(--muted); }
 
-.writing-meta {
+.writing-date {
   font-family: var(--font-ui);
-  font-size: 0.75rem;
+  font-size: 0.78rem;
   color: var(--dim);
   font-weight: 300;
   white-space: nowrap;
-  flex-shrink: 0;
-  display: flex;
-  gap: 0.6rem;
+  flex: 0 0 6rem;   /* ancho fijo: todas las fechas alineadas */
+}
+
+.writing-type {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  color: var(--dim);
+  font-weight: 300;
+  white-space: nowrap;
+  flex: 0 0 4rem;   /* ancho fijo: todos los tipos alineados */
 }
 
 .writing-title {
   font-family: var(--font-body);
-  font-size: 0.95rem;
+  font-size: 1.05rem;
   color: var(--text);
-  font-style: italic;
-  transition: opacity 0.15s;
-  line-height: 1.4;
+  /* font-style: italic; */
+  transition: color 0.15s;
+  line-height: 1.1;
+  flex: 1;          /* ocupa el resto sin desplazarse */
 }
-.writing-item:hover .writing-title { opacity: 0.65; }
+/* [4] hover unificado */
+.writing-list li:hover .writing-title { color: var(--hover); }
 
 /* ============================================
    PÁGINA DE ARTÍCULO/TEXTO
    ============================================ */
 
 .article-header {
-  margin-bottom: 2.5rem;
+  margin-bottom: 2rem;
 }
 
 .article-title {
   font-family: var(--font-body);
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   font-weight: 500;
-  line-height: 1.35;
+  line-height: 1.1;
   color: var(--text);
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.1rem;
 }
 
 .article-meta {
@@ -340,85 +395,109 @@ main {
 
 .article-meta .sep {
   color: var(--muted);
-  font-size: 0.6rem;
+  font-size: 0.8rem;
 }
 
 /* Contenido del artículo */
 .article-body {
-  font-size: 1rem;
-  line-height: 1.85;
+  font-size: 1.2rem;
+  line-height: 1.35;
   color: var(--text);
 }
 
-.article-body p {
+.article-body p, h1, h2, .epigrafe, blockquote {
+  margin-bottom: 1.4rem;
+}
+
+.article-body h1, h2 {
+  font-family: var(--font-body);
+  font-weight: 300;
+  color: var(--text);
+  margin-left: 0.6rem;
+}
+
+.article-body h1 {
+  font-size: 1.6rem;
+}
+
+.article-body h2 {
+    font-size: 1.35rem;
+}
+
+/* [5] LISTAS DENTRO DE ARTÍCULOS
+   padding-left crea espacio para los bullets sin comerse el padding del container;
+   list-style-position: outside es el default, pero lo declaramos explícito */
+.article-body ul,
+.article-body ol {
   margin-bottom: 1.4em;
+  padding-left: 1.4em;   /* espacio para bullets, relativo al texto — no al container */
+  list-style-position: outside;
+}
+
+.article-body ul li,
+.article-body ol li {
+  margin-bottom: 0.35em;
+  padding-left: 0.2em;
 }
 
 /* Verso: preservar saltos de línea */
-.article-body.verse {
-  font-style: italic;
-}
 .article-body.verse p {
-  white-space: pre-line;
-  margin-bottom: 1.8em;
+  white-space: pre-wrap;
+  margin-bottom: 1.5em;
 }
-
-.article-body h2, .article-body h3 {
-  font-family: var(--font-ui);
-  font-weight: 500;
-  margin: 2em 0 0.75em;
-  color: var(--text);
-}
-.article-body h2 { font-size: 1.05rem; }
-.article-body h3 { font-size: 0.95rem; color: var(--dim); }
 
 .article-body em { font-style: italic; }
-.article-body strong { font-weight: 500; }
+.article-body strong { font-weight: 800; }
 
 .article-body blockquote {
   border-left: 2px solid var(--muted);
   padding-left: 1.25rem;
   color: var(--dim);
-  font-style: italic;
-  margin: 1.5em 0;
+  line-height: 1.22;
+  font-size: 1.16rem;
+  /* font-style: italic; */
+  margin-left: 7px;
 }
 
-/* ============================================
-   PÁGINAS SIMPLES (About, Now)
-   ============================================ */
-
-.page-header {
-  margin-bottom: 2.5rem;
-  border-bottom: 1px solid var(--muted);
-  padding-bottom: 1.25rem;
-}
-
-.page-title {
-  font-family: var(--font-body);
-  font-size: 1.4rem;
-  font-weight: 500;
-  color: var(--text);
-}
-
-.page-body {
+.article-body .footnotes {
+  margin-top: 7rem;
   font-size: 1rem;
-  line-height: 1.85;
-  color: var(--text);
 }
 
-.page-body p { margin-bottom: 1.4em; }
-.page-body a {
+.article-body .footnotes p {
+  line-height: 1.1;
+  margin-bottom: 0.9rem;
+}
+
+.article-body hr {
+  border-color: var(--dim);
+  margin-bottom: 1.25rem;
+}
+
+.article-body a {
   border-bottom: 1px solid var(--muted);
   transition: border-color 0.15s;
 }
-.page-body a:hover { border-color: var(--text); }
+/* [4] hover unificado */
+.article-body a:hover { border-color: var(--hover); color: var(--hover); }
+
+.article-body .epigrafe {
+  /* font-style: italic; */
+  color: var(--dim);
+  text-align: right;
+  font-size: 1.05rem;
+  line-height: 1.1;
+  white-space: pre-wrap;
+  max-width: 85%;
+  margin-left: auto;
+}
 
 /* ============================================
    FOOTER
    ============================================ */
 
 footer.site-footer {
-  padding: 2.5rem 1.5rem;
+  padding: 2rem 1.5rem;
   text-align: center;
   font-family: var(--font-ui);
   font-size: 0.72rem;
@@ -426,6 +505,8 @@ footer.site-footer {
   font-weight: 300;
   letter-spacing: 0.04em;
   border-top: 1px solid var(--bg-subtle);
+  /* [1] flex-shrink: 0 evita que el footer se comprima */
+  flex-shrink: 0;
 }
 
 /* ============================================
@@ -441,12 +522,25 @@ footer.site-footer {
     gap: 1rem;
   }
 
-  .writing-item {
-    flex-direction: column;
-    gap: 0.2rem;
+  .container {
+    padding: 0 1rem;
   }
 
-  .writing-meta {
+  /* [2] en móvil: metadatos y título en dos renglones */
+  .writing-item {
+    flex-wrap: wrap;
+    gap: 0.1rem;
+    column-gap: 1.2rem;
+  }
+
+  .writing-date,
+  .writing-type {
+    flex: 0 0 auto;
     font-size: 0.72rem;
+  }
+
+  .writing-title {
+    flex: 0 0 100%;   /* título en su propio renglón */
+    padding-left: 0;
   }
 }

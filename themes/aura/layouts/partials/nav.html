@@ -2,8 +2,8 @@
   Breadcrumb lógica:
   - Homepage            → "Aura S."
   - About / Now         → "Aura S."  (sin breadcrumb extra)
-  - Página antología    → "Aura S. / Writing / [nombre]"
-  - Artículo individual → "Aura S. / Writing / [colección]"
+  - Página antología    → "Aura S. / Escritos / [nombre]"
+  - Artículo individual → "Aura S. / Escritos / [colección]"
 
   El breadcrumb es solo estético: todo redirige a la homepage.
 */}}
@@ -13,36 +13,29 @@
 {{ $type      := .Type }}
 {{ $params    := .Params }}
 
-{{/* Determinar si estamos dentro de writing */}}
-{{ $inWriting := false }}
+{{/* Determinar si estamos dentro de escritos */}}
+{{ $inEscritos := false }}
 {{ $collectionName := "" }}
 
-{{ if and (not $isHome) (eq $section "writing") }}
-  {{ $inWriting = true }}
+{{ if and (not $isHome) (eq $section "escritos") }}
+  {{ $inEscritos = true }}
   {{ with $params.collection }}
     {{ $collectionName = . }}
-  {{ end }}
-  {{/* Si es la página de una colección (taxonomy), usar el título de la página */}}
-  {{ if eq $type "collection" }}
-    {{ $collectionName = .Title }}
   {{ end }}
 {{ end }}
 
 <nav class="site-nav" aria-label="Navegación principal">
   <div class="nav-left">
-    <a href="{{ "/" | relURL }}" class="nav-home">{{ .Site.Params.author | default "Aura S." }}</a>
-    {{ if $inWriting }}
-      <span class="nav-breadcrumb">&thinsp;/&thinsp;Writing</span>
-      {{ if $collectionName }}
-        <span class="nav-breadcrumb">&thinsp;/&thinsp;{{ $collectionName }}</span>
-      {{ end }}
+    <a href="{{ "/auras-site" | relURL }}" class="nav-home">{{ .Site.Params.author | default "Aura S." }}</a>
+    {{ if $inEscritos }}
+      <span class="nav-breadcrumb">&thinsp;/&thinsp;Escritos</span>
     {{ end }}
   </div>
 
   <div class="nav-right">
-    <a href="{{ "/about" | relURL }}"
+    <a href="{{ "/auras-site/about" | relURL }}"
        class="nav-link{{ if eq $section "about" }} active{{ end }}">About Me</a>
-    <a href="{{ "/now" | relURL }}"
+    <a href="{{ "/auras-site/now" | relURL }}"
        class="nav-link{{ if eq $section "now" }} active{{ end }}">Now</a>
     <button class="theme-toggle" id="theme-toggle" aria-label="Cambiar tema"></button>
   </div>

@@ -1,0 +1,36 @@
+---
+title: "A Renata"
+date: 2026-02-12
+type: "prosa"
+collection: "Narrativa suelta"
+---
+
+Renata, en la universidad me dieron esta dirección, me dijeron que si tengo suerte no habrás cambiado de residencia. Espero te llegue mi carta.
+
+Después de estos años de ausencia te escribo para despedirme. Quiero decirte que me voy otra vez y posiblemente no vuelva. ¿Adónde?, no te lo puedo decir. Piensa en Islandia. Imagina que tomo un vuelo y aterrizo en Júpiter. Quizás desciendo en alguna ciudad de Brasil. O a lo mejor voy y me alquilo un departamento en la otra cara de la luna como hacen los astronautas cuando se cansan de trabajar y allá dedico mis horas a releer tus poemas mientras escucho la radio.
+
+Perdóname si hay otra manera para el adiós, pero lo mejor que se me ocurrió fue rememorar nuestros días de estudiantes. Lee mis recuerdos y dime si en algo me equivoco.
+
+Se me ocurre lo de Navidad. Apenas nos estábamos conociendo y me invitaste a cenar en tu pieza; te dije que sí. El pavo no te gustaba, hicimos pizza. Me contaste lo de tus padres y te contesté que a mí me pasaba algo similar con mis hermanos y que por eso me fui de casa. Cenamos al lado del árbol de luces azules y amarillas, luego nos acercamos para abrir nuestros regalos y lo que me dijiste no lo recuerdo bien, pero yo te dije algo de que te veías linda, quizás por la iluminación o el regalo que sostenías. Te pedí que te movieras dos pasos a tu izquierda y levantes un poco la caja, y te tomé tres fotos. ¿Verdad que sucedió en ese orden? Del resultado dijiste algo de gracioso, de surreal, y coincidí contigo porque no sé manejar la cámara como tú. Al cabo nos turnamos la cámara y exploramos otras fuentes de iluminación. La luz de la cocina. La del escritorio con tus manuscritos. La lampara de mesa en tu recámara a cortinas cerradas. El mismo procedimiento: apagar las luces y disparar el flash dos veces. Unos pasos a la derecha, otros a la izquierda, apagar las luces otra vez y dos veces el flash.
+
+¿Y te acuerdas de la novela que estabas escribiendo? Cuando nos juntábamos en tu cuarto que olía a Maruchan y no abríamos las ventanas por miedo a que los espíritus entraran por la ventana como en _Ju-On_ a robarnos las ideas. (Claro que no era porque tuviéramos frío). Y entre la novela y las fotos llegaban los fines de semana y la señora Ángela nos invitaba a su departamento. Ahí sus tres gatos. Ahí nosotras sentadas y ella yendo y viniendo de la cocina por el espagueti o la lasaña que se le quemaba. Y sus preguntas a quemarropa, ¿te acuerdas? Mirarnos a los ojos sin saber quién de las dos debía responder, ese miedo de contar mal las cosas, de hablar de más.
+
+Renata, es mi turno de preguntar. Piensa rápido: ¿hubieran sido distintas las cosas si ese día te hubiera abrazado más? Si te hubiera dicho alguna cosa romántica, algo que no diera risa. Me iré sin saber tu respuesta, pero necesito que contestes con sinceridad. Confío en que lo harás. En caso de que te sirva, imagina que estamos de nuevo en el recibidor de tu pieza. Me ves clara, transparente, honesta en los ojos por primera vez, mirándote sin vacilación, y en vez de despedirme imagina que te digo _Acompáñame a Júpiter_ con el rostro bien serio, sin tartamudeos. Cualquier frase pero con el rostro serio y el corazón ahí afuera, palpitando en mis manos, como si fuera yo una famosa ilusionista o maga de la que te fuera fácil enamorarte.
+
+Tengo tu libro de ilustraciones en mi armario, perdón por habérmelo llevado. Lo he estado cuidando. Me gusta abrirlo en una página al azar y... Renata, debo decirte que he vivido mucho desde que me fui de la ciudad. No hay tiempo para contarlo todo, pero puedo hacerte una sinopsis, mira: mujer de mediana edad se va de la ciudad; en su nueva residencia no encuentra a nadie que haga buenas pizzas, reprueba varias veces, se gradúa, se le enferma la madre de las vías respiratorias, ve a su padre llorar, hace amigos, los pierde, y en algún momento va a un concierto gratuito donde tocan _Obstacle 1_ y que, contrario a lo que la mujer piensa, no soluciona nada y al volver a casa se ve obligada a enfrentarse nuevamente a su lúgubre realidad. Algo así, ¿te haces una idea? El drama familiar lo podemos omitir (porque de lo contrario habría que hablar de mi abuela materna y su relación con los hermanos de mi padre y bla bla bla...). Por cierto, ¿puedes creerte que de joven mi padre también escribía poemas? Me lo contó mi madre, que le entregó uno donde hablaba de su cabello castaño y hacía una especie de metáfora graciosa con el chocolate diciendo que no conocía cabello más aromático que el suyo. Eso me contó. Siendo sincera, si te tuviera enfrente te diría lo mismo. Le robaría a mi padre su poema para decirte _Tienes un cabello hermoso, café como el chocolate o algo así, ¿y si nos casamos?_
+
+Renata, aquí me despido. Te adelanto la parte mala: seguirás frecuentando las calles, pero ahora sin posibilidad de cruzarnos; me llevo conmigo ese accidente. A cambio te dejo la nostalgia. Te pido que sigas visitando a la señora Ángela cuando te sientes sola y las pastillas no hagan efecto. Que vuelvas al cine a ver una película que no planeabas ver y conozcas más personas como yo (o distintas si así te apetece). Acuérdate de mí por ratos, alguna noche, antes de dormir. Sueña al menos una vez que al final sí viajamos a la luna y le sacamos la lengua a las personas de abajo. Las primeras personas en escuchar Interpol en gravedad cero. Y agrega que estamos cobijadas en alguna cama de una estación espacial (aunque ya no sea yo), hablando otra vez de nuestras fobias, los cascos espaciales puestos, hablando de nuestras fobias para desplazar las preguntas importantes hasta las últimas horas, hasta que el sueño nos impida hacer otra cosa que no sea dormir, y repetirlo todo mañana. Por favor, aunque ya no sea yo, sigue pensando en eso.
+
+Ah, quería decirte otra cosa, siempre pensé que eso del espacio te pegaba más a ti que a mí. A mí me detendrían en la puerta antes de poder hacer los exámenes físicos y me dirían _No puedes pasar porque eres muy despistada_. Yo soy más de documentar y archivar cosas. Documentaría tu viaje. Grabaría una colección de sonidos rutinarios en gravedad cero y la vendería como arte conceptual. El audio de nuestro cepillado dental, la televisión, los golpecitos sobre el metal de la nave, nuestras comidas. Diría en la tarima _En esta grabadora tengo la vida de dos personas en gravedad cero_, y con las ganancias de la venta podríamos volver a la luna o irnos a envejecer en alguna ciudad costera. No hay nada como el mar.
+
+En algún foro leí algún comentario que decía que la gente escribe para decir a los demás _Así veo el mundo, ¿lo ves similar?_ Yo soy igual, te escribo la carta para decirte cómo recuerdo nuestros días y cómo me hubiera gustado que fueran las cosas. ¿Sientes algo parecido?
+
+De alguna anécdota me habré olvidado, tendrás tanto en la punta de la lengua.
+
+¿Aún conservas tus fotos?, ¿has tomado más? ¿Cómo está Billy?
+
+Renata, quiero seguir hablándote pero no sé qué más decir. Esta es la última vez que acudo a nuestros recuerdos; espero que tú puedas recordarme otra vez y que la nostalgia te haga bien. No me salen más palabras para postergar la despedida, es todo.
+
+No resolví si al final agradecerte o disculparme.
+
+Adiós.

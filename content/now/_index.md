@@ -1,8 +1,6 @@
 ---
 title: "Now"
-layout: "single"
+layout: "list"
 ---
 
-<!-- Reemplaza este contenido con tu archivo .md de Obsidian -->
-
-Lo que estoy haciendo ahora mismo.
+Escribiendo más relatos breves y poesía ocasional.

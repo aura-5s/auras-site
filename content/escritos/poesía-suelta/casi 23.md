@@ -1,0 +1,8 @@
+---
+title: "Casi 23"
+date: 2026-02-08
+type: "prosa"
+collection: "Poesía suelta"
+---
+
+Tengo 22 años y siento que me estoy pudriendo. Sé muy bien que esto es relativo, cuestión de perspectivas, de mojarse el rostro, de colocar los pies en otra banqueta y volver a mirar la situación. No es tan complicado como aterrizar un avión (ni tan sencillo como limpiar la leche derramada en la cocina), y aun así muchas de las personas que sienten que se pudren acaban muriendo. Mi mejor amigo siente lo mismo, y él quizás se canse antes que yo, aunque esto en verdad no sea cansado y baste con salir afuera y hablar con alguien, con cualquier persona, o acariciar a sus tres perros. Es lo que le digo. Aun así la gente muere. El alivio es llorar. La fatiga es que después de llorar no ocurra nada. Es como pagar por un artículo que nunca llega, o usar el artículo sin tenerlo, o tener la memoria de haberlo usado algún día y haberlo vendido o perdido o regalado. Hurgar en los depósitos de basura como un vabagundo. Ser vagabundo sin necesidad de hurgar físicamente en ningún depósito de basura. Pero vagabundo con casa, con salud, que es lo importante. Nunca me he fracturado ningún hueso. Nunca he sufrido ninguna luxación, ningún esguince de ningún pie. Jamás he ido al médico y me ha dicho que no puede hacer mucho por mí y que atesore la poca vida que me queda. La poca vida que sé que me queda. Y aun así es tan cansado.

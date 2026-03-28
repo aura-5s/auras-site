@@ -1,0 +1,8 @@
+---
+title: "Huellas"
+date: 2024-08-30
+type: "prosa"
+collection: "Misceláneas sabor miel"
+---
+
+Bajo el sol ardiente, mirando la banqueta, veía los pasos que había de tomar para llegar a casa, uno a la vez, huella por huella. Veía también, en mi mente, las cuadras que recorrería una por una y los cruces peatonales. Seguí mirando. Llegando a casa pensaría en el hambre que tengo y me prepararía un sándwich, del que solo me comería la mitad porque no me gustan los sandwiches, y antes de dormir me pondría a meditar en el baño sobre los años que me esperan y a los que ya voy tarde y a los que no quiero ir. Volteé abajo, a la siguiente huella de la banqueta, y me di cuenta: me había vuelto el fantasma de un yo que todavía no existía. Cada huella que cubría con mis pies me acercaba a un futuro ineludiblemente mío; a cada paso, el peso del universo recaía en cada átomo de mi cuerpo. Avanzar un pie más era acercarme al abismo que temo, era quitarme mi ropa y dejarla bien doblada al borde del precipicio, al lado de mis sueños antes de saltar. Dejé de caminar, me recargué en una pared y dejé el tiempo correr. Me separé del mundo, fui otro, alguien distinto. Me extirpé a mí mismo de mí mismo. Decidí dejar de vivir por unos minutos. Luego retomé el camino a mi casa, recorriendo esas cuadras y cruces peatonales, y me hice un sándwich del que solo me comí la mitad porque no me gustan los sandwiches, y antes de dormir me puse a meditar en el baño sobre los años que me esperan y a los que ya voy tarde y a los que no quiero ir.

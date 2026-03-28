@@ -1,0 +1,9 @@
+---
+title: "XII. No tienes caso"
+weight: 12
+date: 2025-07-28
+type: "prosa"
+collection: "Piedritas"
+---
+
+¿Has experimentado la degradación de una fantasía? Es una experiencia con la que no mueres. Es acudir al funeral de algo que sigue vivo y arrepentirte de que vaya a seguir vivo y vaya a seguir creciendo y fortificando y protegiendo la vida que no quieres vivir. Lo has experimentado. Sabes de lo que hablo. De pronto tus fantasías se rebelan en tu contra, se aferran a cualquier migaja con tal de preservar sus vidas. Son miserables. Ni tú ni yo somos como aquellos alienígenas débiles, ningún Dios se apiada de nuestro sufrimiento, vivimos hasta nuestras últimas consecuencias. Tienes la asquerosa resiliencia de un cuerpo que no muere. Lo sé porque yo comparto la misma asquerosa resiliencia de un cuerpo que no muere. He escuchado historias de personas cuya aflicción vence y mata sus cuerpos, pero me parecen falsas. No guardes esa esperanza, la degradación de tus fantasías continuará. Vivirás. A lo mejor te salvaría un revoltijo más intenso en tu estómago o un retortijón más cruel en tu pecho. A lo mejor lo que necesitas es presionarte el pecho manualmente hasta quebrar tus costillas y causarte una hemorragia, pero no esperes mucho: el golpe final debe darlo el sentimiento. Si no es el sentimiento el asesino, entonces no tiene caso. Debes morir injustamente o no tiene caso. Debe ser la muerte de una persona que lloró mucho, que sufrió la degradación de sus fantasías y no le quedó otra cosa que la muerte, y debes seguir llorando incluso muerto, o no tiene caso. Murió de tristeza, deben decir todos. Fue una maravillosa persona. Fuiste una maravillosa persona malherida de tristeza, fuiste una hermosa persona y fuiste víctima de una tristeza extranjera, deberé decir yo. O no tendrá caso.

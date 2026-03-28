@@ -1,0 +1,8 @@
+---
+title: "A un camión que nunca será real"
+date: 2025-04-12
+type: "prosa"
+collection: "Misceláneas sabor galleta"
+---
+
+El camión parecía abrirse paso por un río cuesta arriba. La pendiente de la calle era sutil, pero la lluvia caía apresurada formando una gran corriente y eso hacía parecer que el camión se abría paso por un río cuesta arriba. Una sátira, pensé. Una sátira pobre y contemporánea del mito del pez koi que nada hasta los cielos y consigue transformarse en dragón. Pero esta era una tan pobre que nadie la aplaudió. Nadie se levantó de sus asientos, siquiera. Con los minutos, lo que era una sátira fue asemejándose más a un día de lluvia realista, en un camión realista, con personas realistas, con gotas realistas. Las mismas gotas que han caído durante milenios sin intención ni voluntad más que aquella que la gente que se mueve en su imaginación le adjunta. Y el golpeteo atenuado sobre el techo que daba más profundidad a la escena. Y las paradas ocasionales bajo algún semáforo en rojo, repitiendo que estábamos en una ciudad, que cualquier cosa que pudiera imaginar era falsa porque estábamos en una ciudad y en las ciudades no hay más que cosas de la ciudad. De la ciudad solamente. Del día a día, del despertar, del desayunar a prisas para tomar el transporte y llegar a otro punto de la ciudad, y del volver a la casa que se encuentra en algún otro punto dentro de la misma ciudad. Y lo mismo, y lo mismo después. Del camión que valientemente siguió desafiando la corriente como partícipe verdadero de un mito falso, y de mí que sigo atrapado en la misma ciudad sin poder moverme ni siquiera para tomar aire en una bocanada breve. Porque nosotros, la gente de ciudad, sabemos que no existe cosa como moverse.

@@ -1,0 +1,32 @@
+---
+title: "Sueño"
+date: 2024-01-01
+type: "prosa"
+collection: "Narrativa suelta"
+---
+
+La noche anterior soñé algo raro:
+
+Era una casa de dos plantas: el primer piso y el sótano. Por dentro, las paredes eran de un amarillo apagado tirando a naranja. Por fuera, nunca lo supe; en ningún momento salí, la puerta principal estaba cerrada con llave. Arriba vivía yo. Conmigo solo había una cama y unas escaleras hacia abajo. Abajo vivía algo más. Descendiendo esas escaleras que parecían no llevar a ningún otro lado más que a la mayor oscuridad, a un abismo que devoraba toda luz. Si lo veía fijamente, aunque fueran unos breves segundos, sentía que devoraba algo en mis adentros.
+
+A decir verdad, no sabía con exactitud qué había debajo de mí. Mis intentos de comprensión se basaban en los ruidos ocasionales que escapaban por las escaleras. Eran ruidos sin semejanza, irreconocibles e indescriptibles, que me hacían temblar cada anochecer. Claro que cubría mis oídos, pero el ruido sonaba igual de fuerte y, acompañado del ruido, subía también un frío que inundaba toda la planta y me hacía tiritar.
+
+Aunque desconocía qué había al fondo, de alguna manera sentía que me llamaba sutilmente; era un cosquilleo en el pecho, un ligero tirón que me llevaba al primer escalón hacia el sótano. En aquel momento desconocía el motivo de aquella extraña atracción.
+
+En la primera planta, la única fuente de luz eran unas ventanas muy altas a las que no podía asomarme y la iluminación era deficiente porque había una especie de neblina en toda la casa. Además, llevar la cuenta de mi cautiverio no era tarea fácil; algunos días duraban como tres horas, luego le seguían noches de diez, luego días de veinte, noches de cinco y así sucesivamente.
+
+Pasaba el tiempo (aunque de eso no estoy tan seguro), los ruidos iban en aumento y mi cordura empeoraba. Para ese punto, mi cabeza daba tantas vueltas que ya no sabía dónde estaba; me resultaba impensable distinguir lo real de lo imaginario. Ante mis ojos, la casa se deformaba por las noches, las ventanas se borraban y un vapor negro parecía escapar levemente de las escaleras.
+
+Aumentaba la intensidad del llamado. Me arrastraba en olas, como un mar furioso. Fuese lo que fuese, de algo tenía certeza: lo que habitaba el sótano tenía hambre.
+
+Mi somnolencia terminó volviéndose insoportable; temía no despertar si dormía, pero ya no podía pasar más noches en vigilia. Fue así que sucumbí ante los llamados y acudí al encuentro con aquella criatura. No esperaba sobrevivir, simplemente quería ver la apariencia de lo que se ocultaba debajo de mí.
+
+Me acerqué a las escaleras. En ese momento había silencio absoluto. Bajé un escalón, luego otro, y otro más; bajé hasta que todo fuera oscuridad y luego bajé más. Entre más descendía, más silencio encontraba y más frío tenía; no obstante, bajar los escalones era mucho más asequible de lo que me imaginé, tanto más que daba miedo. Seguí bajando. Así pasaron lo que se sintió como dos horas y me topé con una pared; las escaleras habían terminado. Extendí mi mano y sentí una cerradura, entonces supe que se trataba de una puerta metálica. El silencio era infernal y yo estaba dispuesto a morir antes de bajar, pero, incluso así, no me atrevía a interrumpirlo, hasta intenté respirar más silenciosamente, pero fue imposible. El sudor frío comenzó a enfriar aún más mis manos mientras me preguntaba dónde estaba, por qué bajé o qué hacía en esa casa. Y debo repetirlo: el silencio era insufriblemente alto.
+
+Me sentí observado, quizás eso estaba a diez kilómetros de mí, o a diez centímetros. No era mi imaginación. Entonces lo escuché, algo se acercaba; lo que tanto temía se acercaba por detrás de la puerta. _¿Debo correr?, ¿Y si aún no me ve?, ¿Por qué viene hacia mí?, ¿Moriré?, ¿De verdad moriré?_ Mi mente me abandonó. Atormentado por el ruido, solo pude gritar: _¡¿Qué eres?!_ Tras eso no recuerdo nada. Mis ojos se cerraron y desperté nuevamente en mi cama, en el primer piso, de día, en una mañana apacible. Había sobrevivido.
+
+Los días siguientes fueron más tranquilos, más lentos, y las noches más cortas. El ruido que me molestaba por las madrugadas no volvió a sonar. Mi estadía en esa casa comenzó a ser placentera: consistía en nada más que despertar, recostarme en la cama con los pies bien extendidos y dejar pasar el día viendo el techo cambiar de color con el movimiento del Sol; sin ruidos macabros. En medio de esa calma, mi curiosidad empeoró; seguía viendo el techo, pero mi mente nunca abandonó realmente el sótano. _¿Por qué se calló? ¿Se habrá olvidado de mí?_ Ni siquiera sabía cómo había despertado en mi cama o si esa cosa volvería a atormentarme. Se me iba el día pensando y llegué a la conclusión de que sería imposible seguir viviendo en una casa de dos pisos sin saber qué se ocultaba abajo, detrás de esa puerta metálica.
+
+El miedo siempre ha formado parte de mi naturaleza, pero mi curiosidad me ha guiado en momentos como estos. Bajé las escaleras, por segunda vez. Sin miedo ni torpeza. Mi mente no tenía cabida para el frío, la oscuridad o el silencio, solo quería saber qué había allí. Llegué hasta el fondo, la puerta estaba ahí. Llamé dos veces con la aldaba y solo recibí el eco de mis golpes; cuando el eco estaba por desvanecerse completamente sentí terror. El cuerpo se me heló. Cuando el eco me abandonó, me di cuenta de lo que estaba haciendo: estaba en la madriguera de un monstruo, en medio de la nada absoluta. Oscuridad total. La puerta se entreabrió, mi cuerpo se paralizó. Sabía que algo malo ocurriría. Sabía que era un error, pero entré con mis pies que no sentía. Para mi sorpresa, adentro no había más oscuridad, podía verlo todo. Realmente lo vi, en una habitación de paredes blancas, era monstruoso. Colgaba del techo, retenido por cadenas. Su cara estaba deformada de tanto gritar; sus brazos, suspendidos como tiras de tela rasgada. Movió sus pupilas en mi dirección: eran opacas como la ceniza. Entonces miré abajo: mis manos brillaban rojas. Sangre desconocida goteaba de mi mano izquierda y un cuchillo resplandecía en mi mano derecha. Introduje mi mano en el bolsillo izquierdo y sentí unas llaves, eran las de la entrada principal; luego, en mi bolsillo derecho: saqué otras llaves, las del sótano.
+
+Lo recordé todo, mi error, el crimen oculto. Todo temor desapareció. Con una última ojeada vi esas pupilas, desprovistas ya de vida. Me giré, di un paso adelante y salí de ahí. Volví a cerrar la puerta con llave y me fui del sótano, por tercera vez. Escalón tras escalón.

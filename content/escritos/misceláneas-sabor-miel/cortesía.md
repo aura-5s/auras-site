@@ -1,0 +1,8 @@
+---
+title: "Cortesía"
+date: 2024-10-27
+type: "prosa"
+collection: "Misceláneas sabor miel"
+---
+
+Te sirve tu comida, y luego, al girarse, su sonrisa se apaga y vuelve ese rostro de tedio. Sus ojos, su nariz, su boca, su frente, absolutamente todo grita: _¡Molestia!__._ Y tú ya no estás ahí, pero él te sigue hablando a ti porque fuiste la persona más reciente a la que tuvo que sonreír cuando no quería. Porque lleva un mal día y luego llegas tú y su día empeora. Y porque, cada que regresa a tu mesa, tiene que sonreírte (aunque esté tan cansado por dentro y lleve varios días sin un buen sueño, porque tiene una familia que cuidar y su sueldo no le alcanza y se desvela pensando en lo aterrador que sería perder su empleo, como su compañero al que despidieron porque _recientemente, la afluencia del restaurante ha venido disminuyendo_), y te pregunta si todo está bien o si necesitas algo más, pero solo escuchas un: _Vete ya_. No obstante, miras a tu alrededor y todos siguen comiendo, entonces también tú continúas comiendo, saboreando el malestar que estás provocando, hasta que llegas al clímax del ritual: te trae el postre (delicioso tanto para el que lo consume como para el que lo trae, pero no puede probarlo) y de alguna manera reúnes el valor de recibirlo del pobre hombre que te maldice para sus adentros. Te lo comes hasta no dejar más que un plato manchado y una cuchara embarrada, dejas el dinero en la mesa y, antes de irte, tienes el atrevimiento de decirle: _Gracias__._

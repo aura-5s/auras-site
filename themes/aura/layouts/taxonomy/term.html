@@ -8,17 +8,17 @@
     </p>
   </header>
 
-  <div class="writing-list">
+  <ul class="writing-list">
     {{ range sort .Pages "Date" "desc" }}
-    <a href="{{ .RelPermalink }}" class="writing-item" style="display:flex;">
-      <div class="writing-meta">
-        <span>{{ .Date.Format "2006-01-02" }}</span>
-        <span>{{ .Params.type | default "prosa" }}</span>
-      </div>
-      <span class="writing-title">{{ .Title }}</span>
-    </a>
+    <li>
+      <a href="{{ .RelPermalink }}" class="writing-item">
+        <span class="writing-date">{{ .Date.Format "2006-01-02" }}</span>
+        <span class="writing-type">{{ .Params.type | default "prosa" }}</span>
+        <span class="writing-title">{{ .Title }}</span>
+      </a>
+    </li>
     {{ end }}
-  </div>
+  </ul>
 
 </div>
 {{ end }}

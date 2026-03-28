@@ -1,0 +1,8 @@
+---
+title: "Historia de una humanidad"
+date: 2025-10-18
+type: "prosa"
+collection: "Narrativa suelta"
+---
+
+Nuestro mundo tropezó al mismo tiempo, perdimos el balance. Lloramos juntos. Nos dolió al mismo tiempo en el mismo lugar y no hubo doctores. Fue una catástrofe. Eso dirán los libros de texto de la siguiente civilización, y en sus siguientes escuelas lo explicarán como _el día que las personas lloraron al unísono_. Cuando muera nuestra civilización, vendrá otra que descubra los fósiles de estas lágrimas nuestras y señale el incidente como _desastre natural_. Escribirán que nuestras vidas fueron un desastre natural que no dejó marca. Eso también vendrá en enciclopedias: nombrarán la primera prenda de ropa que superó la esperanza de vida de un humano, el primer motor de combustión que sobrevivió a la muerte de su dueño, luego la de su fabricante. Y esas personas dirán: _Vivían tan poco y lloraban tan largo, y cuando morían y callaban, sus semejantes seguían. Ah, un desastre natural_. Existirá un capítulo en un libro que hable de nuestras bombas atómicas y diga el año en que las muertes acumuladas por tristeza superaron los decesos de estas bombas, luego los causados por nuestras guerras, y en el siguiente párrafo vendrá el año en que superaron todas las muertes causadas por nosotros mismos. Ese año nos dimos cuenta de que nuestro llanto nos trascendía, que estábamos abandonados a nuestra suerte en un mundo destinado a perecer. Entonces acabará la clase y los niños de la siguiente civilización, curiosos, dirán a sus madres: _Mamá, ¿qué fue la tristeza?_ Y sus madres dirán a los profesores: _¿Qué es la tristeza?_ Y los profesores no tendrán respuesta.

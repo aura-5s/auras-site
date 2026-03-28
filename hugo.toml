@@ -12,11 +12,11 @@ pagerSize = 20
 
 [params]
   author = "Aura S."
-  description = "Escritura"
+  description = "Escritos"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = false
+      unsafe = true
   [markup.highlight]
     noClasses = false
