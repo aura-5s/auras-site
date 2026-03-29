@@ -15,6 +15,6 @@ cocteles de febrero marzo abril que antes de ser mayo reinician
 sincronizados cantos a capela furtivas miradas de tú a tú 
 ojos ya de quién caricias dónde memorias cuándo
 Soplas el mechero cae la noche nos empapa nos revuelve
-calcetas tuyas ya tan irreversiblemente cosidas a calcetas mías
+Calcetas tuyas ya tan irreversiblemente cosidas a calcetas mías
 como dos palomas despegando de la cornisa de un torreón-atalaya
 En tus pupilas avistado un oráculo que secretea: Mírame amor cómo encandilo
