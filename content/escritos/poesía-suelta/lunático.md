@@ -5,9 +5,9 @@ type: "verso"
 collection: "Poesía suelta"
 ---
 
-Arriba del metro llueven bruscos huracanes de gente de pie,
+Arriba del metro llueven bruscos huracanes de gente de pie
 abajo camino al centro de la vía láctea cantamos poesía
-Cantamos el canon de Pachelbel,
+cantamos el canon de Pachelbel
 cantamos noches a la intemperie de ella alunizada
 de sus dos césares de cristal
 de su lunar en el cachete derecho en su calzón
@@ -16,5 +16,5 @@ del éter translúcido-amniótico revitalizador de su voz
 ····medianochesca lunar
 
 No hay tickets para después
-Después se acaba el mundo
-Mañana despega con su maleta y se acaba el mundo
+después se acaba el mundo
+mañana despega con su maleta y se acaba el mundo
