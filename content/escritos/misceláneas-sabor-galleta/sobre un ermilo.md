@@ -1,8 +1,8 @@
 ---
-title: "Sobre un Ermilo agotado, endemoniadamente encolerizado, desalentado por la cena que se le quemó, y un chiquitito Bonáis idiota (tan idiota), que ladra y ladra y, sin embargo, no es tan idiota como Ermilo asevera en su desespero"
+title: Sobre un Ermilo agotado, endemoniadamente encolerizado, desalentado por la cena que se le quemó, y un chiquitito Bonáis idiota (tan idiota), que ladra y ladra y, sin embargo, no es tan idiota como Ermilo asevera en su desespero
 date: 2025-04-21
-type: "verso"
-collection: "Misceláneas sabor galleta"
+type: híbrido
+collection: Misceláneas sabor galleta
 ---
 
 Era una noche fría, oscura, y la luna brillaba poco, y estrellas no había… y bueno, todas esas cosas que la gente ya sabe. El asunto de interés es que Bonáis habíase quedado pasmado frente a la puerta nuevamente, como sospechando la llegada de un extranjero, o presagiando un peligro que no tiene caso describir porque solo perros como él comprenden. Y el asunto de interés es, también, que Bonáis cedió a sus impulsos perrunos y exhibió sus fastidiosos ladridos, y quizás el asunto de mayor relevancia es que aquello a Ermilo lo agobiaba tanto como para desear la sordera.

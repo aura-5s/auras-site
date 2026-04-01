@@ -2,7 +2,7 @@
 title: XIV. Ustedes, de espaldas
 weight: 14
 date: 2025-07-28
-type: prosa
+type: híbrido
 collection: Piedritas
 ---
 Sobre el banco de la glorieta,

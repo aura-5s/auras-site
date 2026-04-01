@@ -1,8 +1,8 @@
 ---
-title: "Ser conjuntos en un diagrama de Venn"
+title: Ser conjuntos en un diagrama de Venn
 date: 2025-09-12
-type: "verso"
-collection: "Poesía suelta"
+type: híbrido
+collection: Poesía suelta
 ---
 
 Ser conjuntos en un diagrama de Venn. Ser intersectados e intersectarnos. Platicar hasta que llega la hora, luego quitarse el diagrama, ponerse la cobija y encontrar que no queda más bajo la cobija, porque es verdad: no queda nada debajo. No sobrevive sino una noche que olvida lo que somos. No más diagramas de Venn. Y, sobre algo o no, se vive al mismo ritmo y se despierta a la misma hora. Se quiera o no, se piense o no, se sienta o no, se llega siempre a tierra firme, al punto tan familiar de equilibrio: una especia de homeostasis, de autoestabilización involuntaria.
