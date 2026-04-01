@@ -26,4 +26,4 @@ Mira, mejor termina tu cena y luego te lo piensas mejor, ¿sí?
 > - Incrementa tu vibración.
 > - Elimina 13 tipos de cáncer.
 >
-> ····\*El número exacto varía de persona a persona.
+> &emsp;&emsp;\*El número exacto varía de persona a persona.

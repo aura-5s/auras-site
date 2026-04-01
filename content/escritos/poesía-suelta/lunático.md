@@ -13,7 +13,7 @@ de sus dos césares de cristal
 de su lunar en el cachete derecho en su calzón
 de su río de pecas chocolate artesanal
 del éter translúcido-amniótico revitalizador de su voz
-····medianochesca lunar
+&emsp;&emsp;medianochesca lunar
 
 No hay tickets para después
 después se acaba el mundo

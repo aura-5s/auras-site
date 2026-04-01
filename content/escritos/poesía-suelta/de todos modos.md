@@ -28,8 +28,8 @@ de cualquier modo lo vas a besar
 (amor predestinado)
 o te dirá adiós no quiero esto no quiero eso adiós no quiero
 (taxi ruta al gran cañón
-····volcanes hierven en Marte
-········arenas revueltas entran a tus pulmones a enfermarte)
+&emsp;volcanes hierven en Marte
+&emsp;&emsp;arenas revueltas entran a tus pulmones a enfermarte)
 no tengas miedo al asma pronto tendrás asma
 un fémur roto por caer mal del balcón
 el espanto de una amnesia
@@ -38,7 +38,7 @@ Aunque te pase todo eso
 y resistas y permanezcas con vida
 y te sigan pasando más cosas
 y sigas respirando otro cachito otro bocadito de vida
-··otro malvavisco así despacio tragado con leche tibia
+&emsp;otro malvavisco así despacio tragado con leche tibia
 al final de los finales
 al borde de la cama del horizonte de la soga mal o bien puesta
 (botón o no)
@@ -67,7 +67,7 @@ Dilo vamos tú sabes aunque tengas todo eso
 aunque vengas de la Mesopotamia bíblica
 aunque no pagues nunca impuestos
 aunque te digan que también quieren vivir contigo
-‎‎··toda la vida completita entera en sábanas verdes azules
-‎··(dos caramelos envueltos)
+&emsp;toda la vida completita entera en sábanas verdes azules
+&emsp;(dos caramelos envueltos)
 de todos modos vas a morir
 porque eres muy tonto

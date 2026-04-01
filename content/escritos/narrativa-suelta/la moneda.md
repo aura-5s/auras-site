@@ -4,7 +4,6 @@ date: 2024-09-01
 type: "prosa"
 collection: "Narrativa suelta"
 ---
-
 <div class="epigrafe">
 En colaboración con sebamansiok
 </div>

@@ -12,7 +12,7 @@
 
   <div class="article-body {{ if eq (.Params.type | default "prosa") "verso" }}verse{{ end }}">
     <!-- {{ .Content }} -->
-      {{ replace .Content "··" "&nbsp;&nbsp;" | safeHTML }}
+      {{ .Content }}
   </div>
 
 </div>

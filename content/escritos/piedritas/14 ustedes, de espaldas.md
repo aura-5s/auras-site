@@ -1,11 +1,10 @@
 ---
-title: "XIV. Ustedes, de espaldas"
+title: XIV. Ustedes, de espaldas
 weight: 14
 date: 2025-07-28
-type: "verso"
-collection: "Piedritas"
+type: prosa
+collection: Piedritas
 ---
-
 Sobre el banco de la glorieta,
 todavía de mañana.
 Con su cabeza a la altura de tu pecho,
