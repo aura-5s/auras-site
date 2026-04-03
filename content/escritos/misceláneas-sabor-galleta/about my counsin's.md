@@ -1,7 +1,7 @@
 ---
 title: "About my cousin's most recent accident (for which I'm truly sorry, even though I laughed)"
 date: 2025-02-14
-type: "verso"
+type: "prosa"
 collection: "Misceláneas sabor galleta"
 ---
 

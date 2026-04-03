@@ -1,7 +1,7 @@
 ---
 title: "Seré vida"
 date: 2025-02-04
-type: "verso"
+type: "prosa"
 collection: "Misceláneas sabor galleta"
 ---
 

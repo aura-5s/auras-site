@@ -1,7 +1,7 @@
 ---
 title: "Súplica"
 date: 2025-05-14
-type: "verso"
+type: "híbrido"
 collection: "Misceláneas sabor galleta"
 ---
 
