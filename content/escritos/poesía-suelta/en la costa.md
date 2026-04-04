@@ -1,8 +1,8 @@
 ---
-title: "En tus pupilas avistado"
+title: En la costa un cangrejo desnudo
 date: 2026-03-29
-type: "verso"
-collection: "Poesía suelta"
+type: verso
+collection: Poesía suelta
 ---
 
 En la costa un cangrejo desnudo que muda de caparazón
